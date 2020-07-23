@@ -1,4 +1,6 @@
 MIA RESOLUSI
-- menuntaskan revisi TA
-- mendapat pekerjaan di luar kota
-- belajar Framework Javascript
+- Menuntaskan revisi TA
+- Mendapat pekerjaan di luar kota
+- Belajar Framework Javascript
+- Belajar android experts / kotlin
+- Belajar PWA
