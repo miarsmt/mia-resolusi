@@ -1,6 +1,6 @@
 MIA RESOLUSI
-- Menuntaskan revisi TA
 - Belajar Framework Javascript
 - Belajar android experts / kotlin
+- Belajar UI/UX
 - Belajar PWA
 - Belajar AI
